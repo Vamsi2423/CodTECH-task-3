@@ -28,3 +28,9 @@ HTML
 CSS
 
 JAVASCRIPT
+
+OUtput:
+
+![Screenshot 2024-07-29 153253](https://github.com/user-attachments/assets/8c570eb6-f009-4a0c-bdc5-9d64be4917a8)
+
+
